@@ -1,0 +1,12 @@
+{
+  "name": "tpooo/framework",
+  "description": "framework",
+  "minimum-stability": "dev",
+  "license": "privet",
+  "authors": [
+    {
+      "name": "Ethan Lu",
+      "email": "ethan.lu@tpooo.com"
+    }
+  ]
+}
