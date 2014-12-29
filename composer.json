@@ -8,5 +8,9 @@
       "name": "Ethan Lu",
       "email": "ethan.lu@tpooo.com"
     }
-  ]
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "symfony/http-kernel": "~2.6.1"
+  }
 }
